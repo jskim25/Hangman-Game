@@ -1,0 +1,12 @@
+/**
+ * Week 3 Homework (Hangman Game)
+ **/
+
+ * {
+    box-sizing: border-box;
+}
+
+#logo {
+    height:auto;
+    width: 300px;
+}
